@@ -1,0 +1,9 @@
+The EMI for a home loan is calculated using the formula: EMI = [P x R x (1+R)^N]/[(1+R)^N-1] 
+P: The principal loan amount
+N: The loan tenure in months
+R: The monthly interest rate, calculated by dividing the annual interest rate by 12 and then by 100
+You can use a home loan EMI calculator to estimate your EMI amount. These calculators can also help you understand how different loan terms affect your EMI and total interest expenses. 
+Some factors that can affect your EMI include: 
+Loan tenure: A longer tenure will result in lower EMIs, and vice versa.
+Interest rate: A lower interest rate will result in lower EMIs.
+Loan amount: A larger loan amount will result in higher EMIs, and vice versa.
